@@ -1,0 +1,21 @@
+.block{
+  border: 5px solid;
+  height: 200px;
+  width: 200px;
+  cursor: pointer;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 85px;
+  font-weight: bold;
+  background-color: rgb(160, 88, 121);
+}
+
+.board{
+  padding: 100px;
+}
+
+.row{
+  display: flex;
+}
